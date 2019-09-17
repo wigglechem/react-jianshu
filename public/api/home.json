@@ -1,0 +1,56 @@
+{
+    "success":true,
+    "data":{
+        "topicList":[{
+            "id":1,
+            "title":"社会热点",
+            "imgUrl":"//upload.jianshu.io/collections/images/538394/1506347795.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64/format/webp"
+        },{
+            "id":2,
+            "title":"手绘",
+            "imgUrl":"//upload.jianshu.io/collections/images/538394/1506347795.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64/format/webp"
+        }],
+        "articleList":[{
+            "id":1,
+            "imgUrl":"//upload-images.jianshu.io/upload_images/10516561-3cb753c7750fa0d7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title":"一看就懂的效率手帐方法",
+            "desc":"2017年底的时候，我还在家坐月子，朋友送了我一本hobonichi，没想到，自己的人生就伴随着这个小本子的使用变好，变的有效率"
+        },{
+            "id":2,
+            "imgUrl":"//upload-images.jianshu.io/upload_images/12713337-0adba0a503ee7d6a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title":"三生三世东凤续集（45)",
+            "desc":"重霖揪紧了心，若是说错一句，按照帝君的做法，自己定又要下凡历劫去了，但是不说，也难逃下凡历劫，于是道，“属下道了好些句话，行了好些次礼，只是帝君帝后一直将属下视为空气，一直没理睬属下。”（重霖cos：宝宝心里苦啊！）"
+        },{
+            "id":3,
+            "imgUrl":"//upload-images.jianshu.io/upload_images/8579799-c7c8a4d1a319de1d?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title":"王凯，从娘炮变身18岁大学生，到底哪来的底气",
+            "desc":"文|晨夕 前几天，最刷屏的一部电视剧，无疑是改革开放四十周年献礼剧《大江大河》，豆瓣评分高达8.9。 前几天，人民日报也对该剧做出了高度评价"
+        },{
+            "id":4,
+            "imgUrl":"//upload-images.jianshu.io/upload_images/15055524-feee2619b726b293.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title":"为什么南方几乎每个村都有宗祠，而北方就很少见呢？今天长知识了",
+            "desc":"去过南方的朋友，一定都知道，不管是城镇还是乡村，都建有祠堂，基本上一个小小的村落就有十几座。不过，这种南方很常见的宗祠，在北方却很少，这"
+        },{
+            "id":5,
+            "imgUrl":"//upload-images.jianshu.io/upload_images/10766723-e422f6bec6295180.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+            "title":"谁不是一边没时间，一边挤时间？不知不觉写了5年《心经》",
+            "desc":"感谢大家支持鼓励，时不时地问我:有没有写毛笔字？这些对我都是一种鞭策。 爱好和热情是什么？ 一开始做得稍微比周围人好一点，，受人肯定鼓舞，然后就..."
+        }],"recommendList":[{
+            "id":1,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id":2,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        },{
+            "id":3,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id":4,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },{
+            "id":5,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+        
+    }
+}
